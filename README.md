@@ -17,7 +17,7 @@ This repository acts as a central hub for my projects at the intersection of **A
 | [ML-Access-Monitor](https://github.com/PandaAIExplore/ML-Access-Monitor)                 | Machine learning-powered IAM access log monitoring   | Python, pandas     |
 | [SSO-Troubleshooter](https://github.com/PandaAIExplore/SSO-Troubleshooter)               | Toolset for debugging SSO/OAuth2/OpenID Connect     | Python, Flask      |
 | [IAM-Auditor](https://github.com/PandaAIExplore/IAM-Auditor)                             | Automated IAM configuration audits                   | Go, AWS SDK        |
-| [[MCP-OKTA_PROXY](https://github.com/PandaAIExplore/MCP-OKTA-PROXY)                      | MCP Proxy on Okta API layer                           | Python,Okta.MCP       |
+| [MCP-OKTA_PROXY](https://github.com/PandaAIExplore/MCP-OKTA-PROXY)                      | MCP Proxy on Okta API layer                           | Python,Okta.MCP       |
 
 *Feel free to visit each repository’s README for detailed documentation, setup instructions, demos, and additional resources.*
 
