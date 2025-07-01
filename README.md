@@ -3,7 +3,6 @@
 Welcome to **PandaAIExplore’s AI-IAM Portfolio**!  
 This repository acts as a central hub for my projects at the intersection of **Artificial Intelligence** and **Identity & Access Management** (IAM). I explore secure, smart, and open-source solutions designed for next-gen identity systems. While  creating a proper path for learning as well.
 
----
 
 ## 📚 Project Directory
 
@@ -22,7 +21,6 @@ This repository acts as a central hub for my projects at the intersection of **A
 
 *Feel free to visit each repository’s README for detailed documentation, setup instructions, demos, and additional resources.*
 
----
 
 ## 👩‍💻 How to Use this Portfolio
 
@@ -31,7 +29,7 @@ This repository acts as a central hub for my projects at the intersection of **A
 - **Clone & contribute:** All projects are open-source—issues and pull requests are welcome!
 - **Stay updated:** Watch this space as we continuously add more projects on AI-driven IAM.
 
----
+
 
 ## 🌟 Highlights
 
@@ -40,7 +38,6 @@ This repository acts as a central hub for my projects at the intersection of **A
 - 🕸️ **Visualization Tools**: Understand roles, permissions, and policies via interactive dashboards.
 - 🤖 **Open Source First**: Transparent, extensible solutions for developers & security teams.
 
----
 
 
 
@@ -49,6 +46,6 @@ This repository acts as a central hub for my projects at the intersection of **A
 All projects are released under their respective open-source licenses.  
 See each repo for details.
 
----
+
 
 > *Thank you for exploring AI-driven Identity & Access Management with Me!*
